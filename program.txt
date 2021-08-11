@@ -1,0 +1,16 @@
+import java.util.scannar;
+public class main{
+public static void main(sting args[]){
+string line;
+scannar in=new scannar(system.in);
+system.out.println("enter something:");
+line=in.nextline();
+system.out.println("you said:" +line);
+
+system.out.println("spread confidence to everyone by our body language itself:");
+line=in.nextline();
+system.out.println("you said:" +line);
+}
+
+
+
