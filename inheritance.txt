@@ -1,0 +1,18 @@
+public class animal{
+void eat(){
+system.out.println("eating...");
+}
+}
+public class dog extends animal{
+void bark(){
+system.out.println("barking...");
+}
+}
+public class testIn{
+public static void main(string args[]){
+Dog d=new Dog();  
+d.bark();  
+d.eat();
+}
+}
+  
